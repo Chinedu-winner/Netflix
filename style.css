@@ -1,0 +1,179 @@
+*{ margin: 0; padding: 0px; margin: 0px; }
+
+.body{background-color: rgb(35,35,35);}
+
+.sectionOne{
+    background-image:linear-gradient(to bottom right, rgba(12, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("./Netflix\ images/netflix1.jpg"); height: 700px; width: 100%;    opacity: 20px;    
+}
+.netName{ color: red; margin-left: 200px;transform: translateY(20px);font-size: 40px;}
+
+.signUpBtn{ background-color: red; padding: 5px; height: 40px; margin-left: 1300px; border-radius: 10px; border-color: red;width: 80px;}
+
+.signUpBtn a{color: white;}
+.unlimited{color: white; text-align: center; font-weight: bolder; font-size: 80px;  margin-top: 200px;  font-family: Arial, Helvetica, sans-serif;}
+.watch{  text-align: center;  font-size: 30px;  color: white;  margin-top: 10px;}
+.email{  background-color: transparent;  font-size: 20px;  margin-left: 500px;   padding: 15px; width: 350px;   margin-top: 20PX;   border-color: white;   border-radius: 5px;}
+.email p{color: white;}
+.members{color: white; text-align: center; margin-top: 10px; font-size: 20px;}
+.gold{background-color: red; height: 60px; width: 200px; border-radius: 5px; color: white;  font-size: 25px;  border-style: none;  font-weight: bold;}
+.section2{background-color: black;  margin-top: 10px}
+
+.enjoy{
+    color: white;
+    transform: translateY(150px);
+    margin-left: 200px;
+    font-size: 50px;
+}
+.smart{
+    color: white;
+    margin-left: 200px;
+    transform: translateY(170px);
+    font-size: 20px;
+    margin-top: 10px;
+}
+.television{
+    margin-left: 800px;
+    margin-top: -100px;
+}
+.section3{
+    background-color: black;
+    margin-top: 10px;   
+}
+.download{
+    color: white ;
+    margin-left: 1000px;
+    margin-bottom: 70px;
+    margin-top: 20px;
+    text-align:top;
+    position: absolute;
+    top: 1400px;
+}
+.favour{
+    color: white;
+    margin-left: 1000px;
+    /* margin-top: 100px */
+    position: absolute;
+    top: 1450px;
+    text-size-adjust: 30px;
+}
+.section4{  
+    background-color: black;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 10px;
+    height: 500px;
+}
+.unlimited{
+    color: white;
+    font-size: 20px;
+    /* padding: 20px; */
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.phone{
+    color: white;
+    transform: translateY();
+    margin-left: 700px;
+    /* margin-bottom: 20px  ; */
+    font-size: 300%;
+}
+.section4{
+    margin-left: 30;
+}
+.profile{
+    color: white;
+    margin-left: 900px;
+    margin-top: 100px;
+    padding-top: -200px;
+    position: absolute;
+    font-size:40px;
+    top: 2400px;
+
+}
+.adventure{
+    color:white;
+    margin-left: 900px;
+    font-size: 20px;
+    position: absolute;
+    font-size: 20px;
+    top: 2550px;
+}
+
+.section6{
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top:  10px;
+    /* height: 100px; */
+}
+.question{
+    color: white;
+    padding-top: 20px;
+    background-color: rgb(35,35,35);
+    /* margin-left: 200px; */
+    width: 1500px;
+    text-align: center;
+    font-size: 30px;
+}
+.reason{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(35,35,35);
+
+
+}
+.box{
+    width: 1500px;
+    border-radius: 5px;
+    background-color: rgb(35,35,35);
+
+
+}
+.president{
+    width: 1500px;
+    height: 5vh;
+    border-radius: 30px;
+    background-color: rgb(35,35,35);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+
+}
+.governor{
+    width: 1500px;
+    height: 5vh;
+    background-color: rgb(35,35,35);
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 10pxf;
+}
+.box{
+    width: 1500px;
+    height: 5vh;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.radio{color: white;  margin-left: 500px;  color: white;  font-size: 150%;}
+.house{  margin-left: 700px; height:50px;background-color: rgb(35, 35, 35);}
+.king{margin-top:30px;}
+.contact{margin-left: 700px;}
+.support{margin-left: 100px;}
+.investor{margin-left: 100px;}
+.speed{color: white; margin-left: 100px;} 
+.site{color: white;}
+.password{background-color: red; padding: 5px; height: 50px;border-radius: 3px;}
+.bank{color: white;}
+.privacy{ color: white; margin-left: 100px;}
+.mother{color: white;}
+.speed{margin-left: 100px;}
+.test{color: white;}
+.hospital{margin-left: 1000px; font-size: 20px;} 
+hr{ border: thin solid #232323; width: 100%; height: 1vh;background-color: #232323;}
+.bee{border: thin solid red; height: 40vh;  width: 87%; background-color: black;  display: flex; gap: 120px;
+align-items: center; border: none; padding: 100px;
+}
+.bee ul li{list-style-type: none;line-height: 3;font-size: 18px;}
+.bee ul li a{color: white;}
